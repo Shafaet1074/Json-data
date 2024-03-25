@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ABC123",
+    "cover": "https://i.ibb.co/4WxFZx6/austin-distel-97-Hf-Vpy-NR1-M-unsplash.jpg",
+    "title": "Secrets of the Nebula",
+    "author": "Emily Starlight",
+    "author-img": "https://i.ibb.co/r389rMH/ivana-cajina-7-Lb-C5-J-jw4-unsplash.jpg",
+    "posted-date": "2024-03-13",
+    "reading-time": 12,
+    "hashtags": ["#SpaceAdventure", "#Mystery", "#ScienceFiction"]
+  },
+  {
+    "id": "XYZ789",
+    "cover": "https://i.ibb.co/3sq3cS2/namroud-gorguis-FZWivbri0-Xk-unsplash.jpg",
+    "title": "Whispers in the Shadows",
+    "author": "Victor Midnight",
+    "author-img": "https://i.ibb.co/MMgHNK9/rafaella-mendes-diniz-et-78-Qk-MMQs-unsplash.jpg",
+    "posted-date": "2024-03-14",
+    "reading-time": 8,
+    "hashtags": ["#Thriller", "#Suspense", "#DarkFantasy"]
+  },
+  {
+    "id": "DEF456",
+    "cover": "https://i.ibb.co/JdQbGJ7/levi-guzman-zd-Soe8za6-Hs-unsplash.jpg",
+    "title": "Chronicles of the Enchanted Forest",
+    "author": "Luna Mystique",
+    "author-img": "https://i.ibb.co/CHfvq9y/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
+    "posted-date": "2024-03-15",
+    "reading-time": 15,
+    "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+  },
+  {
+    "id": "GHI789",
+    "cover": "https://i.ibb.co/M77RghH/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+    "title": "In the Mind's Eye",
+    "author": "Alex Dreamweaver",
+    "author-img": "https://i.ibb.co/2K8TtT1/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg",
+    "posted-date": "2024-03-16",
+    "reading-time": 10,
+    "hashtags": ["#PsychologicalThriller", "#Mindscape", "#RealityBending"]
+  },
+  {
+    "id": "JKL321",
+    "cover": "https://i.ibb.co/fSr16rC/unseen-studio-s9-CC2-SKy-SJM-unsplash.jpg",
+    "title": "Eternal Echoes",
+    "author": "Seraphina Silverwing",
+    "author-img": "https://i.ibb.co/Gx3krgR/ian-dooley-d1-UPki-Fd04-A-unsplash.jpg",
+    "posted-date": "2024-03-17",
+    "reading-time": 18,
+    "hashtags": ["#Romance", "#TimelessLove", "#DestinyWoven"]
+  }
+]
